@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/afk-api.shopsong.me.ico",
     "slug": "shopsong",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
-    "time": 580,
-    "timeDay": 580,
-    "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 623,
+    "timeDay": 623,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-11-16": 6
+      "2023-11-16": 14
     }
   }
 ]
