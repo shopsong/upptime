@@ -4,19 +4,19 @@
     "url": "https://afk-api.shopsong.me/blogs/",
     "icon": "https://icons.duckduckgo.com/ip3/afk-api.shopsong.me.ico",
     "slug": "shopsong",
-    "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
-    "time": 623,
-    "timeDay": 623,
-    "timeWeek": 623,
-    "timeMonth": 623,
-    "timeYear": 623,
+    "status": "up",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 619,
+    "timeDay": 619,
+    "timeWeek": 619,
+    "timeMonth": 619,
+    "timeYear": 619,
     "dailyMinutesDown": {
-      "2023-11-16": 14
+      "2023-11-16": 29
     }
   }
 ]
